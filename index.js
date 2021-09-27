@@ -9,7 +9,12 @@ function countFromOne(){
 }
 
 //3
-function isPrime(){
+function threeAndFiveInFifty(){
+  
+}
+
+//4
+function threeAndFive(){
   
 }
 
