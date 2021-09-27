@@ -14,11 +14,7 @@
 
 2. Write a function named `countFromOne` that takes in an integer argument, and console.logs all the integers from 1 up to the given integer. 
 
-3. Write a function named `isPrime` that takes in an integer argument, and console.logs if the integer is a prime number.
-Examples:
-```
-isPrime(17) // logs true
-isPrime(5) // logs true
-isPrime(22) // logs false
-isPrime(1) // logs false
-```
+3. Write a function named `threeAndFiveInFifty' that console.logs all the integers from 1 to 50 that are divisible by 3 and 5.
+
+4. Write a function named `threeAndFive' that takes in an integer argument, and console.logs all the integers that are divisible by 3 and 5, from 1 up to the given integer. 
+
