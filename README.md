@@ -14,9 +14,9 @@
 
 2. Write a function named `countFromOne` that takes in an integer argument, and console.logs all the integers from 1 up to the given integer. 
 
-3. Write a function named `threeAndFiveInFifty` that console.logs all the integers from 1 to 50 that are divisible by 3 and 5.
+3. Write a function named `threeAndFiveInFifty` that console.logs all the integers from 1 to 50 that are divisible by 3 or 5.
 
-4. Write a function named `threeAndFive` that takes in an integer argument, and console.logs all the integers that are divisible by 3 and 5, from 1 up to the given integer. 
+4. Write a function named `threeAndFive` that takes in an integer argument, and console.logs all the integers that are divisible by 3 or 5, from 1 up to the given integer. 
 
 #### Bonus
 
