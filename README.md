@@ -18,7 +18,7 @@
 
 4. Write a function named `threeAndFive` that takes in an integer argument, and console.logs all the integers that are divisible by 3 and 5, from 1 up to the given integer. 
 
-Bonus
+#####Bonus
 5. Write a fuction `triple` that takes an array of integers and returns a new array of integers with triple the value.
 ```
 triple([1, 2, 3]) // returns [3,6,9]
