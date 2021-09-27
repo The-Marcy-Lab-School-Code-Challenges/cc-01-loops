@@ -1,24 +1,14 @@
 //1
-function morningLogged(){
+function countToFifty(){
   
 }
 
 //2
-function iLoveCode(){
+function countFromOne(){
   
 }
 
 //3
-function loggingTwice(){
-  
-}
-
-//4
-function noStep(){
-  
-}
-
-//5
 function isPrime(){
   
 }
