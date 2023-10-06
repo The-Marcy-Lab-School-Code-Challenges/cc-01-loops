@@ -37,7 +37,7 @@ threeOrFive(20) //3,5,6,9,10,12,15,18,20
 
 #### Bonus
 
-6. Write a function `triple` that takes an array of integers and returns a new array of integers with triple the value.
+6. Write a function named `triple` that takes in an array of integers and returns a new array of integers with triple their value.
 ```
 triple([1, 2, 3]) // returns [3,6,9]
 triple([5, 20, 27, 36,]) // returns [15, 60, 81, 108]
