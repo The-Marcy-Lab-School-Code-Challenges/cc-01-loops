@@ -2,7 +2,7 @@
 
 ## Instructions
 
-2. Clone down this assignment to your `code-challenges' directory in AWS Cloud9.  
+2. Clone down this assignment to your `code-challenges' directory in VScode.  
 3. Code your solution using JavaScript in `index.js`. 
 4. **Be sure to run and test your code throughly!**
 5. By the end of Code Challenge, **commit and push your changes up to Github**.
@@ -30,14 +30,14 @@ countFromN(7) //7,6,5,4,3,2,1
 threeOrFiveInFifty() //3,5,6,9,10,12...45,48,50
 ```
 
-5. Write a function named `threeOrFive` that takes in an integer argument, and console.logs all the integers that are divisible by 3 or 5, including 1 up to the given integer. 
+5. Write a function named `threeOrFive` that takes in an integer argument, and console.logs all the integers that are divisible by 3 or 5.
 ```
 threeOrFive(20) //3,5,6,9,10,12,15,18,20
 ```
 
 #### Bonus
 
-6. Write a fuction `triple` that takes an array of integers and returns a new array of integers with triple the value.
+6. Write a function `triple` that takes an array of integers and returns a new array of integers with triple the value.
 ```
 triple([1, 2, 3]) // returns [3,6,9]
 triple([5, 20, 27, 36,]) // returns [15, 60, 81, 108]
