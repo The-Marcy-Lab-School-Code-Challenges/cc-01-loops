@@ -20,7 +20,9 @@ This function `staircaseSum` demonstrates how to use a **loop** to **accumulate 
 
 **Example:**
 
-`staircaseSum(5)` adds `1 + 2 + 3 + 4 + 5` and returns `15`.
+```jsx
+staircaseSum(5) // adds 1 + 2 + 3 + 4 + 5 and returns 15
+```
 
 ---
 
