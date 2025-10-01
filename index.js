@@ -1,5 +1,8 @@
-// Prints the first n Fibonacci numbers
-function printFibonacci(n) {}
+// Write a function that prints the first n square numbers and also calculates the sum of these numbers.
+const printSquareNumbers = (n) => {
+  //write code here
 
-printFibonacci(5); // should print 0, 1, 1, 2, 3
-printFibonacci(10); // should print 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
+}
+printSquareNumbers(5);
+//will print: 1, 4, 9, 16, 25
+// Final output is: 55
